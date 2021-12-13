@@ -18,7 +18,7 @@ public class IntersectDBFile extends IntersectDB {
      * IntersectDBFile - создание файла, программа запросит параметры в терминале
      * IntersectDBFile /path/to/db cmd x y [value]
      *
-     * где cmd - название команды (set, get, inc)
+     * где cmd - название команды (set, get, inc, add)
      *
      */
     public static void main(String[] args) throws Exception {
